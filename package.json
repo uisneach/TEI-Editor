@@ -1,0 +1,17 @@
+{
+  "name": "tei-editor",
+  "version": "1.0.0",
+  "description": "A modular TEI XML editor and parser",
+  "main": "index.js",
+  "scripts": {
+    "start": "node local-server/server.js",
+    "dev": "nodemon local-server/server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
