@@ -1,0 +1,27 @@
+/* Basic styling for tabs */
+.tab {
+    display: flex;
+    cursor: pointer;
+    padding: 10px;
+    background-color: #f1f1f1;
+    border: 1px solid #ccc;
+    margin-right: 2px;
+    overflow: hidden;
+}
+.tab-content {
+    display: none;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+.active-tab {
+    background-color: #fff;
+    border-bottom: none;
+}
+.active-content {
+    display: block;
+}
+#tabs {
+    display: flex;
+    flex-direction: row;
+}
