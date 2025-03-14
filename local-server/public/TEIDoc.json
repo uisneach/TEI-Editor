@@ -1,0 +1,77 @@
+{
+  "TEIDoc": {
+    "tei": "Value at depth 2",
+    "header": {
+    	"fileDesc": {
+    		"titleStmt": {
+    			"required": true,
+    			"attributes": {},
+    			"title": "",
+    			"author": "",
+    			"editor": "",
+    			"sponsor": "",
+    			"funder": "",
+    			"principal": "",
+    			"respStmt": {
+    				"resp": "",
+    				"name": ""
+    			}
+    		},
+    		"editionStmt": {
+    			"required": false,
+    			"attributes": {},
+    			"edition": "",
+    			"respStmt": {
+    				"resp": "",
+    				"name": ""
+    			}
+    		},
+    		"extent": {
+    			"required": false,
+    			"attributes": {},
+    			"extent": ""
+    		},
+    		"publicationStmt": {
+    			"required": true,
+    			"attributes": {},
+    			"publisher": "",
+    			"distributor": "",
+    			"authority": ""
+    		},
+    		"seriesStmt": {
+    			"required": false
+    		},
+    		"notesStmt": {
+    			"required": false
+    		},
+    		"sourceDesc": {
+    			"required": true
+    		}
+    	},
+    	"encodingDesc": "sample",
+    	"profileDesc": "sample",
+    	"xenoData": "sample",
+    	"revisionDesc": "sample",
+    },
+    "core": "Value at depth 2",
+    "textstructure": "Value at depth 2",
+    "gaiji": "Value at depth 2",
+    "verse": "Value at depth 2",
+    "drama": "Value at depth 2",
+    "spoken": "Value at depth 2",
+    "cmc": "Value at depth 2",
+    "dictionaries": "Value at depth 2",
+    "msdescription": "Value at depth 2",
+    "transcr": "Value at depth 2",
+    "textcrit": "Value at depth 2",
+    "namesdates": "Value at depth 2",
+    "figures": "Value at depth 2",
+    "corpus": "Value at depth 2",
+    "linking": "Value at depth 2",
+    "analysis": "Value at depth 2",
+    "iso-fs": "Value at depth 2",
+    "nets": "Value at depth 2",
+    "certainty": "Value at depth 2",
+    "tagdocs": "Value at depth 2"
+  },
+}

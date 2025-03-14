@@ -5,6 +5,7 @@ TEI-XML Web Processor is a modular, Node.js-based application that will allow us
 - **[TEIC/Stylesheets](https://github.com/TEIC/Stylesheets)** for transforming TEI XML into various formats (HTML, PDF, etc.).
 - **[TEIC/CETEIcean](https://github.com/TEIC/CETEIcean)** for rendering TEI content in the browser.
 - **[arjanski/tei2json](https://github.com/arjanski/tei2json)** for converting TEI XML into JSON for easier manipulation.
+- **[josdejong/jsoneditor](https://github.com/josdejong/jsoneditor)** for interactively editing JSON files.
 
 ## Features (coming)
 
